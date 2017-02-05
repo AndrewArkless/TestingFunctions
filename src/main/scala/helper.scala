@@ -7,3 +7,4 @@ object helper {
     f(Renewal(x,y))
   }
 }
+

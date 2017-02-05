@@ -8,3 +8,4 @@ object functions extends App{
   }
   println("HELLO WOLRD")
 }
+
